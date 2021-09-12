@@ -1,0 +1,15 @@
+/Users/seanmorgan/repos/DungeonQuest/DungeonQuest/bin/Debug/net5.0/DungeonQuest.deps.json
+/Users/seanmorgan/repos/DungeonQuest/DungeonQuest/bin/Debug/net5.0/DungeonQuest.runtimeconfig.json
+/Users/seanmorgan/repos/DungeonQuest/DungeonQuest/bin/Debug/net5.0/DungeonQuest.runtimeconfig.dev.json
+/Users/seanmorgan/repos/DungeonQuest/DungeonQuest/bin/Debug/net5.0/DungeonQuest.dll
+/Users/seanmorgan/repos/DungeonQuest/DungeonQuest/bin/Debug/net5.0/ref/DungeonQuest.dll
+/Users/seanmorgan/repos/DungeonQuest/DungeonQuest/bin/Debug/net5.0/DungeonQuest.pdb
+/Users/seanmorgan/repos/DungeonQuest/DungeonQuest/obj/Debug/net5.0/DungeonQuest.csproj.AssemblyReference.cache
+/Users/seanmorgan/repos/DungeonQuest/DungeonQuest/obj/Debug/net5.0/DungeonQuest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmorgan/repos/DungeonQuest/DungeonQuest/obj/Debug/net5.0/DungeonQuest.AssemblyInfoInputs.cache
+/Users/seanmorgan/repos/DungeonQuest/DungeonQuest/obj/Debug/net5.0/DungeonQuest.AssemblyInfo.cs
+/Users/seanmorgan/repos/DungeonQuest/DungeonQuest/obj/Debug/net5.0/DungeonQuest.csproj.CoreCompileInputs.cache
+/Users/seanmorgan/repos/DungeonQuest/DungeonQuest/obj/Debug/net5.0/DungeonQuest.dll
+/Users/seanmorgan/repos/DungeonQuest/DungeonQuest/obj/Debug/net5.0/ref/DungeonQuest.dll
+/Users/seanmorgan/repos/DungeonQuest/DungeonQuest/obj/Debug/net5.0/DungeonQuest.pdb
+/Users/seanmorgan/repos/DungeonQuest/DungeonQuest/obj/Debug/net5.0/DungeonQuest.genruntimeconfig.cache
